@@ -1,1 +1,2 @@
 "hello git" 
+"added new line" 
